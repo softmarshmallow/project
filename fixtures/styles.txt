@@ -1,0 +1,38 @@
+# Visual style fixtures
+
+Short style strings the pipeline can pass alongside a world prompt to bias the painterly look. Each line is a complete style hint; combine freely with any prompt fixture.
+
+- pencil drawn
+- 80s arcade
+- "don't starve"
+- "hollow knight"
+- "stardew valley"
+- "hyper light drifter"
+- "celeste"
+- "shovel knight"
+- "the binding of isaac"
+- "undertale"
+- "link's awakening (game boy)"
+- gameboy 4-shade green
+- GBA pastel
+- NES 8-bit
+- SNES 16-bit
+- PS1 lowpoly
+- saturday morning cartoon
+- muted watercolor
+- neon synthwave
+- high contrast noir
+- flat vector minimalist
+- soft pastel
+- crayon doodle
+- oil painting
+- woodcut print
+- isometric blueprint
+- papercraft cutout
+- chalkboard sketch
+- clay-mation
+- paper mario
+- risograph print
+- photoreal
+- dark fantasy
+- candy pop
